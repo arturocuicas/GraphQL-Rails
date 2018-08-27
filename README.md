@@ -1,9 +1,9 @@
-# GraphQL = Ruby on Rails
-===
+# GraphQL - Ruby on Rails
+
 
 ## Implementation
----
 
-* Graphql
+
+* GraphQL
 * Devise
 * Faker
